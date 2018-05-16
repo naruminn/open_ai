@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# docker
+.env
+
+# jupyter
+.Trash-*
+.ipynb_checkpoints
+None*.png
