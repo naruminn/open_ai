@@ -17,7 +17,7 @@ WORKSPACE=hoge # 書き換えてください
 % docker-compose run
 ```
 
-```http://localhost:8888```
+http://localhost:8888
 
 ## サンプル
 
