@@ -2,7 +2,7 @@
 FROM jupyter/datascience-notebook
 
 USER root
-RUN apt-get update
+RUN apt-get update --fix-missing
 RUN apt-get install -y \
  python-numpy \
  python-dev \
